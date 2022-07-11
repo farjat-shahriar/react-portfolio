@@ -1,0 +1,28 @@
+export const SocialData=[
+    {platform:"Instagram",
+      link:"https://www.instagram.com/farjat_shahriar/",
+        icon: require("../../picture/icons/instagram.png"),
+    },
+    {platform:"Github",
+      link:"https://github.com/farjat-shahriar",
+        icon: require("../../picture/icons/github.png"),
+    },
+    {platform:"Linkedin",
+      link:"https://www.linkedin.com/in/farjat-shahriar-22218719a/",
+        icon: require("../../picture/icons/linkedin.png"),
+    },
+    {platform:"Facebook",
+      link:"https://www.facebook.com/farjatshahriar",
+        icon: require("../../picture/icons/facebook.png"),
+    },
+    // {platform:"Twitter",
+    //   link:"https://www.farjatshahriarjoy@gmail.com",
+    //     icon: require("../../picture/icons/twitter.png"),
+    // },
+    {platform:"Skype",
+      link:"https://l.facebook.com/l.php?u=https%3A%2F%2Fjoin.skype.com%2Finvite%2Ft0O8FjynpaNM%3Ffbclid%3DIwAR0fFnYuEAB6SD5DjQzXyxwHWM-wmn2SARzI29W-Hj3XyR3jGtMrPWP5Km0&h=AT3aOmnprxrqbcw04mYzSIl_MDczxoRtDodcPaFm_sHny8db2BZOmdCHRpWNK5aeHVNuUdziTYbbfLybzuSRjuqhUzUh7yUf-2ZWg_qOqX0dyA3sg_RuPq5MgntObfqLbF2Zaw",
+        icon: require("../../picture/icons/skype.png"),
+    },
+
+
+];

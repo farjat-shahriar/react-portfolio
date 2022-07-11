@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.about{
+    padding-bottom: 45px;
+
+
+}
+.about-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.picture{
+    height: 380px;
+    
+}
+.about-info{
+    font-size: 24px;
+}
+
+.name{
+    font-size: 32px;
+    color: #DC143C;
+
+}
+.animation{
+    font-size: 30px;
+    color: #DC143C;
+}
+@media only screen and (max-width: 720px){
+    
+    .about-top{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .picture{
+        height: 280px;
+    }
+    .about-info{
+        font-size: 20px;
+    }
+    .name{
+        font-size: 25px;
+    }
+
+}
